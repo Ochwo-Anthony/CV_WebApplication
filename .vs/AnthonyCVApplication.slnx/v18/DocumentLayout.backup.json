@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CV_WebApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F47AEBA0-621F-0790-6A3A-13202ED9A170}|AnthonyCVApplication.csproj|c:\\users\\lab_services_student\\documents\\github\\cv_webapplication\\models\\cvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47AEBA0-621F-0790-6A3A-13202ED9A170}|AnthonyCVApplication.csproj|solutionrelative:models\\cvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47AEBA0-621F-0790-6A3A-13202ED9A170}|AnthonyCVApplication.csproj|c:\\users\\lab_services_student\\documents\\github\\cv_webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47AEBA0-621F-0790-6A3A-13202ED9A170}|AnthonyCVApplication.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F47AEBA0-621F-0790-6A3A-13202ED9A170}|AnthonyCVApplication.csproj|c:\\users\\lab_services_student\\documents\\github\\cv_webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F47AEBA0-621F-0790-6A3A-13202ED9A170}|AnthonyCVApplication.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F47AEBA0-621F-0790-6A3A-13202ED9A170}|AnthonyCVApplication.csproj|c:\\users\\lab_services_student\\documents\\github\\cv_webapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F47AEBA0-621F-0790-6A3A-13202ED9A170}|AnthonyCVApplication.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47AEBA0-621F-0790-6A3A-13202ED9A170}|AnthonyCVApplication.csproj|c:\\users\\lab_services_student\\documents\\github\\cv_webapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47AEBA0-621F-0790-6A3A-13202ED9A170}|AnthonyCVApplication.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47AEBA0-621F-0790-6A3A-13202ED9A170}|AnthonyCVApplication.csproj|c:\\users\\lab_services_student\\documents\\github\\cv_webapplication\\models\\cvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47AEBA0-621F-0790-6A3A-13202ED9A170}|AnthonyCVApplication.csproj|solutionrelative:models\\cvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CV_WebApplication\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CV_WebApplication\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABEAAADgzMzMzMwnwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-23T18:09:56.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "script.js",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CV_WebApplication\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\script.js",
@@ -64,45 +64,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CV_WebApplication\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CV_WebApplication\\wwwroot\\css\\style.css",
               "RelativeToolTip": "wwwroot\\css\\style.css",
-              "ViewState": "AgIAANIAAADAmpmZmdkhwBABAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAZGZmZiYgwBABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-02-23T17:59:01.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CV_WebApplication\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CV_WebApplication\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA4AAAAAAgAAAAARwBYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAm5mZmRkWwBYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-23T17:57:48.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CV_WebApplication\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CV_WebApplication\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAkAAAAAMzMzM7MawBIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAADAzMzMzEwswBIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T17:56:20.119Z"
+              "WhenOpened": "2026-02-23T17:56:20.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CVModel.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CV_WebApplication\\Models\\CVModel.cs",
               "RelativeDocumentMoniker": "Models\\CVModel.cs",
@@ -110,7 +111,8 @@
               "RelativeToolTip": "Models\\CVModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T17:51:03.13Z"
+              "WhenOpened": "2026-02-23T17:51:03.13Z",
+              "EditorCaption": ""
             }
           ]
         }
