@@ -12,7 +12,7 @@ namespace AnthonyCVApplication.Controllers
             var model = new CVModel
             {
                 FullName = "Anthony Mark Ochwo",
-                Title = "Aspiring Software Developer",
+                Title = "Final Year IT Student - Aspiring Software Developer",
                 Objective = "I am an aspiring software developer with a foundation in mobile and web development. Passionate about problem-solving and developing innovative applications. Experience in Java, C#, JavaScript, and HTML."
             };
 

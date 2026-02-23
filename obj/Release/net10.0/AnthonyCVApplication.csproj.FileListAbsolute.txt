@@ -23,7 +23,6 @@ C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\scopedcss\bundle\AnthonyCVApplication.styles.css
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\scopedcss\projectbundle\AnthonyCVApplication.bundle.scp.css
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\compressed\vw3ktdblcb-{0}-b9sayid5wm-b9sayid5wm.gz
-C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\compressed\pu2xi2yerx-{0}-ka9osz2203-ka9osz2203.gz
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\compressed\1mqcvg2dfp-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\compressed\2ds5g0pnk9-{0}-ezd5lp0udr-ezd5lp0udr.gz
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\compressed\mks13qqecf-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
@@ -99,3 +98,4 @@ C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\AnthonyCVApplication.pdb
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\AnthonyCVApplication.genruntimeconfig.cache
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\ref\AnthonyCVApplication.dll
+C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\compressed\pu2xi2yerx-{0}-bgl0qcwd2k-bgl0qcwd2k.gz

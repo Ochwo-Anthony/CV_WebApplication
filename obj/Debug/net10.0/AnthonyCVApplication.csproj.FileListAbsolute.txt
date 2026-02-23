@@ -98,4 +98,4 @@ C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Debug\net10
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Debug\net10.0\AnthonyCVApplication.pdb
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Debug\net10.0\AnthonyCVApplication.genruntimeconfig.cache
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Debug\net10.0\ref\AnthonyCVApplication.dll
-C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Debug\net10.0\compressed\pu2xi2yerx-{0}-ka9osz2203-ka9osz2203.gz
+C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Debug\net10.0\compressed\pu2xi2yerx-{0}-bgl0qcwd2k-bgl0qcwd2k.gz
