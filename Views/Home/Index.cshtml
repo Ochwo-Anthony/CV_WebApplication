@@ -1,8 +1,119 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model AnthonyCVApplication.Models.CVModel
+@{
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section id="home" class="section">
+    <h1>@Model.FullName</h1>
+    <p>@Model.Title</p>
+
+</section>
+
+<section id="objective" class="section">
+    <h2>Objective</h2>
+    <p>@Model.Objective</p>
+</section>
+
+<section id="education" class="section">
+    <h2>Education</h2>
+    <div class="card">
+        <h3>International School of Uganda</h3>
+        <p class="location">Kampala, Uganda</p>
+        <p>International Baccalaureate Certificate</p>
+    </div>
+    <div class="card">
+        <h3>Keele University</h3>
+        <p class="location">Stoke-on-Trent, United Kingdom</p>
+        <p>Certificate in Foundation Year Studies</p>
+    </div>
+    <div class="card">
+        <h3>IIEMSA</h3>
+        <p class="location">Johannesburg, South Africa</p>
+        <p>Higher Certificate in Mobile Application and Web Development</p>
+    </div>
+</section>
+
+<section id="skills" class="section">
+    <h2>Technical Skills</h2>
+    <h3>Programming Languages</h3>
+    <p>Java • JavaScript • TypeScript • HTML • CSS • C#</p>
+
+    <h3>Software & Tools</h3>
+    <p>Android Studio • Visual Studio • VS Code • Canva</p>
+
+    <h3>Version Control</h3>
+    <p>GitHub</p>
+
+    <h3>Other Skills</h3>
+    <p>UI/UX Principles • React Native</p>
+</section>
+
+<section id="soft-skills" class="section">
+    <h2>Soft Skills</h2>
+    <ul>
+        <li>Problem-solving and analytical thinking</li>
+        <li>Team collaboration and communication</li>
+        <li>Time management and adaptability</li>
+        <li>Communication</li>
+        <li>Tutoring</li>
+    </ul>
+</section>
+
+<section id="experience" class="section">
+    <h2>Experience</h2>
+    <div class="card">
+        <h3>Tutor – Higher Certificate in Mobile Application and Web Development</h3>
+        <p class="institution">Independent Institute of Education (IIEMSA)</p>
+        <p class="date">February – November 2025</p>
+        <h4>Modules tutored:</h4>
+        <ul>
+            <li>IMAD5112 – Introduction to Mobile Application Development (Feb – Jun 2025)</li>
+            <li>IPRG5111 – Introduction to Programming Logic (Feb – Jun 2025)</li>
+            <li>MAST5112 – Mobile App Scripting (Aug – Nov 2025)</li>
+            <li>XHAW5112 – Work Integrated Learning 1 (Sep – Oct 2025)</li>
+        </ul>
+    </div>
+</section>
+
+<section id="contact" class="section">
+    <h2>Contact Information</h2>
+    <div class="contact-details">
+        <div class="contact-card">
+            <h3>Address</h3>
+            <p>
+                Unit 009, The Village Monash<br>
+                144 Peter Road, Ruimsig<br>
+                Roodeport, Johannesburg<br>
+                South Africa
+            </p>
+        </div>
+
+        <div class="contact-card">
+            <h3>Phone</h3>
+            <p>079 7389214</p>
+        </div>
+
+        <div class="contact-card">
+            <h3>Email</h3>
+            <p>
+                <a href="mailto:anthony.m.ochwo@gmail.com">anthony.m.ochwo@gmail.com</a><br>
+                <a href="mailto:anthony.m.ochwo@outlook.com">anthony.m.ochwo@outlook.com</a>
+            </p>
+        </div>
+
+        <div class="contact-card">
+            <h3>Professional Profiles</h3>
+            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/anthony-ochwo-7332a1352" target="_blank">Anthony Ochwo</a></p>
+            <p><strong>GitHub:</strong> <a href="https://github.com/Anthony-Ochwo" target="_blank">Anthony-Ochwo</a></p>
+        </div>
+
+        <div class="contact-card">
+            <h3>Location</h3>
+            <p>Johannesburg, South Africa</p>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/js/script.js"></script>
+}

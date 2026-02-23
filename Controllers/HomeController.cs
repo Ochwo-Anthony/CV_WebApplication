@@ -2,24 +2,22 @@ using System.Diagnostics;
 using AnthonyCVApplication.Models;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace AnthonyCVApplication.Controllers
 {
     public class HomeController : Controller
     {
         public IActionResult Index()
         {
-            return View();
+            var model = new CVModel
+            {
+                FullName = "Anthony Mark Ochwo",
+                Title = "Aspiring Software Developer",
+                Objective = "I am an aspiring software developer with a foundation in mobile and web development. Passionate about problem-solving and developing innovative applications. Experience in Java, C#, JavaScript, and HTML."
+            };
+
+            return View(model);
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
     }
 }
