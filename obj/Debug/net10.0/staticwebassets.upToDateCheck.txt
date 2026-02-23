@@ -1,5 +1,4 @@
 wwwroot\css\site.css
-wwwroot\css\style.css
 wwwroot\favicon.ico
 wwwroot\js\script.js
 wwwroot\js\site.js
@@ -63,8 +62,10 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\css\style.css
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\wwwroot\css\site.css
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\wwwroot\favicon.ico
+C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\wwwroot\js\script.js
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\wwwroot\js\site.js
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -126,4 +127,3 @@ C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\wwwroot\lib\jqu
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\wwwroot\css\style.css
-C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\wwwroot\js\script.js

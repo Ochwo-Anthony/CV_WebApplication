@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\PubTmp\Out\AnthonyCVApplication.exe
+C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\PubTmp\Out\appsettings.json
+C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\PubTmp\Out\AnthonyCVApplication.dll
+C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\PubTmp\Out\AnthonyCVApplication.deps.json
+C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\PubTmp\Out\AnthonyCVApplication.runtimeconfig.json
+C:\Users\lab_services_student\Documents\GitHub\CV_WebApplication\obj\Release\net10.0\PubTmp\Out\AnthonyCVApplication.pdb
